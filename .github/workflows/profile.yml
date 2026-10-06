@@ -1,0 +1,62 @@
+---
+name: Refresh profile
+on:
+  schedule:
+    - cron: "23 5 * * *"
+  push:
+    branches: [main]
+    paths:
+      - profile.json
+      - scripts/**
+      - .github/workflows/profile.yml
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: profile
+  cancel-in-progress: false
+jobs:
+  render:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97  # v7.0.0
+        with:
+          python-version: "3.13"
+      - name: Render SVG assets from profile.json and the GitHub API
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/render.py
+      - name: Commit changed assets
+        run: |
+          if git diff --quiet -- assets; then
+            echo "Assets unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "Refresh profile assets"
+          git push
+
+  snake:
+    runs-on: ubuntu-24.04
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b  # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - name: Publish to the output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4  # v5.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: Refresh contribution snake
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

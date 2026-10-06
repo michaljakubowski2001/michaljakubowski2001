@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="104" viewBox="0 0 860 104" role="img" aria-label="02 · AWS AWS Infrastructure Automation: ansible, aws, aws-ssm, devops, github-actions, infrastructure-as-code, oidc, terraform">
+<title>02 · AWS AWS Infrastructure Automation: ansible, aws, aws-ssm, devops, github-actions, infrastructure-as-code, oidc, terraform</title>
+<style>
+text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="103" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="40" font-size="15" fill="#3fb950">02 · AWS</text>
+<text x="129" y="40" font-size="22" font-weight="700" fill="#58a6ff">AWS Infrastructure Automation</text>
+<text x="836" y="40" font-size="13" fill="#8b949e" text-anchor="end">aws-devops-portfolio</text>
+<rect x="24" y="62" width="75" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="61" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">ansible</text>
+<rect x="107" y="62" width="43" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="128" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">aws</text>
+<rect x="158" y="62" width="75" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="195" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">aws-ssm</text>
+<rect x="241" y="62" width="67" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="274" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">devops</text>
+<rect x="315" y="62" width="129" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="380" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">github-actions</text>
+<rect x="453" y="62" width="192" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="548" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">infrastructure-as-code</text>
+<rect x="652" y="62" width="51" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="678" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">oidc</text>
+<rect x="711" y="62" width="90" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="756" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">terraform</text>
+</svg>

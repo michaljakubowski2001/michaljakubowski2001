@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="392" viewBox="0 0 860 392" role="img" aria-label="Michał Jakubowski: Linux Systems Administrator → Cloud / DevOps Engineer">
+<title>Michał Jakubowski: Linux Systems Administrator → Cloud / DevOps Engineer</title>
+<style>
+text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+.row { animation: slide .45s ease-out backwards; }
+@keyframes slide { from { opacity: 0; transform: translateX(-6px); } }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="391" rx="10" fill="#0d1117" stroke="#30363d"/><path d="M0.5 40.5 H859.5" stroke="#30363d"/><circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="44" cy="20" r="6" fill="#ffbd2e"/><circle cx="64" cy="20" r="6" fill="#27c93f"/><text x="430.0" y="25" font-size="13" fill="#8b949e" text-anchor="middle">neofetch</text>
+<text class="row" style="animation-delay:0.00s" x="28" y="78" font-size="14" fill="#58a6ff" xml:space="preserve">   .-~~~-.      </text>
+<text class="row" style="animation-delay:0.05s" x="28" y="101" font-size="14" fill="#58a6ff" xml:space="preserve"> .(       ).    </text>
+<text class="row" style="animation-delay:0.10s" x="28" y="124" font-size="14" fill="#58a6ff" xml:space="preserve">(  cloud   )~.  </text>
+<text class="row" style="animation-delay:0.15s" x="28" y="147" font-size="14" fill="#58a6ff" xml:space="preserve"> `-._____.-&#x27;  ) </text>
+<text class="row" style="animation-delay:0.20s" x="28" y="170" font-size="14" fill="#58a6ff" xml:space="preserve">   |  |  |  .&#x27;  </text>
+<text class="row" style="animation-delay:0.25s" x="28" y="193" font-size="14" fill="#58a6ff" xml:space="preserve">  [#] [#] [#]   </text>
+<text class="row" style="animation-delay:0.30s" x="28" y="216" font-size="14" fill="#58a6ff" xml:space="preserve">  [#] [#] [#]   </text>
+<text class="row" style="animation-delay:0.35s" x="28" y="239" font-size="14" fill="#58a6ff" xml:space="preserve">  ===========   </text>
+<text class="row" style="animation-delay:0.30s" x="220" y="78" font-size="14" xml:space="preserve"><tspan fill="#3fb950" font-weight="700">michaljakubowski2001@github</tspan></text>
+<text class="row" style="animation-delay:0.37s" x="220" y="101" font-size="14" xml:space="preserve"><tspan fill="#8b949e" font-weight="400">---------------------------</tspan></text>
+<text class="row" style="animation-delay:0.44s" x="220" y="124" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Role     </tspan><tspan fill="#c9d1d9">Linux Systems Administrator, full-time since 09.2024</tspan></text>
+<text class="row" style="animation-delay:0.51s" x="220" y="147" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Focus    </tspan><tspan fill="#c9d1d9">Cloud · DevOps · GitOps</tspan></text>
+<text class="row" style="animation-delay:0.58s" x="220" y="170" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Infra    </tspan><tspan fill="#c9d1d9">Linux · KVM · VMware vCenter · FreeIPA · Docker</tspan></text>
+<text class="row" style="animation-delay:0.65s" x="220" y="193" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Cloud    </tspan><tspan fill="#c9d1d9">AWS Landing Zone rollout (Terraform, Entra ID SSO)</tspan></text>
+<text class="row" style="animation-delay:0.72s" x="220" y="216" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Edu      </tspan><tspan fill="#c9d1d9">MSc Computer Science, cloud solutions (WSB Poznań)</tspan></text>
+<text class="row" style="animation-delay:0.79s" x="220" y="239" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Certs    </tspan><tspan fill="#c9d1d9">AWS Cloud Practitioner · RHCSA (planned)</tspan></text>
+<text class="row" style="animation-delay:0.86s" x="220" y="262" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Base     </tspan><tspan fill="#c9d1d9">Poznań / Warsaw</tspan></text>
+<text class="row" style="animation-delay:0.93s" x="220" y="285" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Uptime   </tspan><tspan fill="#c9d1d9">5y 0m in IT (since 2021.10)</tspan></text>
+<text class="row" style="animation-delay:1.00s" x="220" y="308" font-size="14" xml:space="preserve"><tspan fill="#ffa657">GitHub   </tspan><tspan fill="#c9d1d9">3 public projects · 7 CI workflows · 55 contributions this year</tspan></text>
+<text class="row" style="animation-delay:1.07s" x="220" y="331" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Code     </tspan><tspan fill="#c9d1d9">HCL · Python · Shell · JavaScript</tspan></text>
+<rect class="row" style="animation-delay:1.14s" x="220" y="360" width="24" height="14" rx="2" fill="#484f58"/>
+<rect class="row" style="animation-delay:1.14s" x="246" y="360" width="24" height="14" rx="2" fill="#ff7b72"/>
+<rect class="row" style="animation-delay:1.14s" x="272" y="360" width="24" height="14" rx="2" fill="#3fb950"/>
+<rect class="row" style="animation-delay:1.14s" x="298" y="360" width="24" height="14" rx="2" fill="#d29922"/>
+<rect class="row" style="animation-delay:1.14s" x="324" y="360" width="24" height="14" rx="2" fill="#58a6ff"/>
+<rect class="row" style="animation-delay:1.14s" x="350" y="360" width="24" height="14" rx="2" fill="#d2a8ff"/>
+<rect class="row" style="animation-delay:1.14s" x="376" y="360" width="24" height="14" rx="2" fill="#39c5cf"/>
+<rect class="row" style="animation-delay:1.14s" x="402" y="360" width="24" height="14" rx="2" fill="#c9d1d9"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="104" viewBox="0 0 860 104" role="img" aria-label="01 · VPS DevOps Platform on a 2 GB VPS: ansible, devops, docker, github-actions, grafana, prometheus, uptime-kuma, vaultwarden">
+<title>01 · VPS DevOps Platform on a 2 GB VPS: ansible, devops, docker, github-actions, grafana, prometheus, uptime-kuma, vaultwarden</title>
+<style>
+text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation Mono',monospace; }
+
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<rect x="0.5" y="0.5" width="859" height="103" rx="10" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="40" font-size="15" fill="#3fb950">01 · VPS</text>
+<text x="129" y="40" font-size="22" font-weight="700" fill="#58a6ff">DevOps Platform on a 2 GB VPS</text>
+<text x="836" y="40" font-size="13" fill="#8b949e" text-anchor="end">mikrus-devops-portfolio</text>
+<rect x="24" y="62" width="75" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="61" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">ansible</text>
+<rect x="107" y="62" width="67" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="140" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">devops</text>
+<rect x="181" y="62" width="67" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="215" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">docker</text>
+<rect x="256" y="62" width="129" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="321" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">github-actions</text>
+<rect x="393" y="62" width="75" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="431" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">grafana</text>
+<rect x="476" y="62" width="98" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="525" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">prometheus</text>
+<rect x="582" y="62" width="106" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="635" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">uptime-kuma</text>
+<rect x="696" y="62" width="106" height="24" rx="12" fill="#1f6feb26" stroke="#1f6feb66"/><text x="749" y="78" font-size="13" fill="#58a6ff" text-anchor="middle">vaultwarden</text>
+</svg>

@@ -1,0 +1,126 @@
+{
+  "user": "michaljakubowski2001",
+  "name": "Michał Jakubowski",
+  "shell_user": "michal",
+  "host": "devops",
+  "role": "Linux Systems Administrator → Cloud / DevOps Engineer",
+  "it_since": "2021-10",
+  "facts": [
+    [
+      "Role",
+      "Linux Systems Administrator, full-time since 09.2024"
+    ],
+    [
+      "Focus",
+      "Cloud · DevOps · GitOps"
+    ],
+    [
+      "Infra",
+      "Linux · KVM · VMware vCenter · FreeIPA · Docker"
+    ],
+    [
+      "Cloud",
+      "AWS Landing Zone rollout (Terraform, Entra ID SSO)"
+    ],
+    [
+      "Edu",
+      "MSc Computer Science, cloud solutions (WSB Poznań)"
+    ],
+    [
+      "Certs",
+      "AWS Cloud Practitioner · RHCSA (planned)"
+    ],
+    [
+      "Base",
+      "Poznań / Warsaw"
+    ]
+  ],
+  "stack": [
+    [
+      "Systems",
+      [
+        "Linux",
+        "KVM",
+        "VMware vCenter",
+        "FreeIPA",
+        "Windows Server",
+        "Active Directory"
+      ]
+    ],
+    [
+      "IaC & automation",
+      [
+        "Terraform",
+        "Ansible",
+        "Packer",
+        "Bash"
+      ]
+    ],
+    [
+      "Cloud",
+      [
+        "AWS EC2",
+        "VPC",
+        "IAM",
+        "S3",
+        "SSM",
+        "OIDC"
+      ]
+    ],
+    [
+      "Containers",
+      [
+        "Docker",
+        "Kubernetes",
+        "Helm",
+        "Kustomize"
+      ]
+    ],
+    [
+      "CI/CD & GitOps",
+      [
+        "Git",
+        "GitHub Actions",
+        "Argo CD",
+        "Sealed Secrets"
+      ]
+    ],
+    [
+      "Observability",
+      [
+        "Prometheus",
+        "Grafana",
+        "Uptime Kuma",
+        "Zabbix"
+      ]
+    ],
+    [
+      "Security & network",
+      [
+        "FortiProxy",
+        "FortiEDR",
+        "FortiMail",
+        "DNS",
+        "VLAN",
+        "SSL/TLS"
+      ]
+    ]
+  ],
+  "projects": [
+    {
+      "repo": "mikrus-devops-portfolio",
+      "stage": "01 · VPS",
+      "title": "DevOps Platform on a 2 GB VPS"
+    },
+    {
+      "repo": "aws-devops-portfolio",
+      "stage": "02 · AWS",
+      "title": "AWS Infrastructure Automation"
+    },
+    {
+      "repo": "k8s-gitops-portfolio",
+      "stage": "03 · K8s",
+      "title": "Kubernetes GitOps Platform"
+    }
+  ]
+}
