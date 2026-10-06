@@ -8,13 +8,13 @@ text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation
 @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
 </style>
-<rect x="0.5" y="0.5" width="859" height="249" rx="10" fill="#0d1117" stroke="#30363d"/><path d="M0.5 40.5 H859.5" stroke="#30363d"/><circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="44" cy="20" r="6" fill="#ffbd2e"/><circle cx="64" cy="20" r="6" fill="#27c93f"/><text x="430.0" y="25" font-size="13" fill="#8b949e" text-anchor="middle">michal@devops:~$ — zsh</text>
-<text x="28" y="82" font-size="18" fill="#3fb950">michal@devops:~$</text>
-<clipPath id="type0"><rect x="211.6" y="64" width="69" height="26"><animate attributeName="width" values="0;0;69" keyTimes="0;0.308;1" dur="1.3s" fill="freeze"/></rect></clipPath><text x="211.6" y="82" font-size="18" fill="#c9d1d9" clip-path="url(#type0)">whoami</text>
+<rect x="0.5" y="0.5" width="859" height="249" rx="10" fill="#0d1117" stroke="#30363d"/><path d="M0.5 40.5 H859.5" stroke="#30363d"/><circle cx="24" cy="20" r="6" fill="#ff5f56"/><circle cx="44" cy="20" r="6" fill="#ffbd2e"/><circle cx="64" cy="20" r="6" fill="#27c93f"/><text x="430.0" y="25" font-size="13" fill="#8b949e" text-anchor="middle">michal@hidden-leaf:~$ — zsh</text>
+<text x="28" y="82" font-size="18" fill="#3fb950">michal@hidden-leaf:~$</text>
+<clipPath id="type0"><rect x="265.6" y="64" width="69" height="26"><animate attributeName="width" values="0;0;69" keyTimes="0;0.308;1" dur="1.3s" fill="freeze"/></rect></clipPath><text x="265.6" y="82" font-size="18" fill="#c9d1d9" clip-path="url(#type0)">whoami</text>
 <text class="out" style="animation-delay:1.5s" x="28" y="116" font-size="28" font-weight="700" fill="#ffffff">Michał Jakubowski</text>
-<text x="28" y="154" font-size="18" fill="#3fb950">michal@devops:~$</text>
-<clipPath id="type2"><rect x="211.6" y="136" width="134" height="26"><animate attributeName="width" values="0;0;134" keyTimes="0;0.677;1" dur="3.1s" fill="freeze"/></rect></clipPath><text x="211.6" y="154" font-size="18" fill="#c9d1d9" clip-path="url(#type2)">cat role.txt</text>
+<text x="28" y="154" font-size="18" fill="#3fb950">michal@hidden-leaf:~$</text>
+<clipPath id="type2"><rect x="265.6" y="136" width="134" height="26"><animate attributeName="width" values="0;0;134" keyTimes="0;0.677;1" dur="3.1s" fill="freeze"/></rect></clipPath><text x="265.6" y="154" font-size="18" fill="#c9d1d9" clip-path="url(#type2)">cat role.txt</text>
 <text class="out" style="animation-delay:3.3s" x="28" y="188" font-size="19" font-weight="400" fill="#58a6ff">Linux Systems Administrator → Cloud / DevOps Engineer</text>
-<text class="out" style="animation-delay:3.9s" x="28" y="222" font-size="18" fill="#3fb950">michal@devops:~$</text>
-<rect class="cursor" x="212" y="207" width="10" height="18" fill="#c9d1d9"/>
+<text class="out" style="animation-delay:3.9s" x="28" y="222" font-size="18" fill="#3fb950">michal@hidden-leaf:~$</text>
+<rect class="cursor" x="266" y="207" width="10" height="18" fill="#c9d1d9"/>
 </svg>

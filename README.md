@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="michal@devops:~$ whoami — Michał Jakubowski, Linux Systems Administrator moving into Cloud / DevOps">
+  <img src="assets/header.svg" width="100%" alt="michal@hidden-leaf:~$ whoami — Michał Jakubowski, Linux Systems Administrator moving into Cloud / DevOps">
 
   <a href="https://www.linkedin.com/in/micha%C5%82-jakubowski-46908b43b/">LinkedIn</a> · <a href="#user-content-projects">Projects</a> · <a href="#user-content-tech-stack">Tech stack</a>
 </div>
