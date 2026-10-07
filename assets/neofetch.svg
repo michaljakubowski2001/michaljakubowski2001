@@ -25,8 +25,8 @@ text { font-family: 'JetBrains Mono','SFMono-Regular',Menlo,Consolas,'Liberation
 <text class="row" style="animation-delay:0.79s" x="220" y="239" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Certs    </tspan><tspan fill="#c9d1d9">AWS Cloud Practitioner · RHCSA (planned)</tspan></text>
 <text class="row" style="animation-delay:0.86s" x="220" y="262" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Base     </tspan><tspan fill="#c9d1d9">Poznań / Warsaw</tspan></text>
 <text class="row" style="animation-delay:0.93s" x="220" y="285" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Uptime   </tspan><tspan fill="#c9d1d9">5y 0m in IT (since 2021.10)</tspan></text>
-<text class="row" style="animation-delay:1.00s" x="220" y="308" font-size="14" xml:space="preserve"><tspan fill="#ffa657">GitHub   </tspan><tspan fill="#c9d1d9">3 public projects · 7 CI workflows · 58 contributions this year</tspan></text>
-<text class="row" style="animation-delay:1.07s" x="220" y="331" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Code     </tspan><tspan fill="#c9d1d9">HCL · Python · Shell · JavaScript</tspan></text>
+<text class="row" style="animation-delay:1.00s" x="220" y="308" font-size="14" xml:space="preserve"><tspan fill="#ffa657">GitHub   </tspan><tspan fill="#c9d1d9">4 public projects · 8 CI workflows · 54 contributions this year</tspan></text>
+<text class="row" style="animation-delay:1.07s" x="220" y="331" font-size="14" xml:space="preserve"><tspan fill="#ffa657">Code     </tspan><tspan fill="#c9d1d9">Python · HCL · Shell · JavaScript</tspan></text>
 <rect class="row" style="animation-delay:1.14s" x="220" y="360" width="24" height="14" rx="2" fill="#484f58"/>
 <rect class="row" style="animation-delay:1.14s" x="246" y="360" width="24" height="14" rx="2" fill="#ff7b72"/>
 <rect class="row" style="animation-delay:1.14s" x="272" y="360" width="24" height="14" rx="2" fill="#3fb950"/>
